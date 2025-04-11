@@ -279,3 +279,29 @@ Contains: Missing org.webjars:swagger-ui:jar:sources:5.13.0
 !MESSAGE Could not resolve artifact org.webjars:swagger-ui:jar:sources:5.13.0
 !SUBENTRY 2 org.eclipse.m2e.core 4 0 2025-04-10 18:02:28.548
 !MESSAGE Missing org.webjars:swagger-ui:jar:sources:5.13.0
+!SESSION 2025-04-11 13:30:18.513 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=tr_TR
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/mac/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/mac/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-04-11 13:30:19.702
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-04-11 13:30:33.382
+!MESSAGE Logback config file: /Users/mac/Desktop/github_projects/Bootcamp/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2025-04-11 14:02:55.964 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=tr_TR
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/mac/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/mac/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-04-11 14:02:56.980
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-04-11 14:02:59.382
+!MESSAGE Logback config file: /Users/mac/Desktop/github_projects/Bootcamp/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
