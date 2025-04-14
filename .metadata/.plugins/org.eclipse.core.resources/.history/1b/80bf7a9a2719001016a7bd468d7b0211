@@ -1,0 +1,8 @@
+package kodlama.io.rentACar.core.utilities.mappers;
+
+import org.modelmapper.ModelMapper;
+
+public class ModelMapperService {
+	ModelMapper forRequest();
+	ModelMapper forResponse();
+}
